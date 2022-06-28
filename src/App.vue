@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <h2>Study Vue3 Template</h2>
+  <h2>Vue3 Template</h2>
 </template>
 
 <style>
